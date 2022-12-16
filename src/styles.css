@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.userInput {
+  width: 80%;
+  height: 4rem;
+  border: 1px solid blue;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+}
+
+.emojiList {
+  margin: 1rem;
+  font-size: 2rem;
+}
+
+.clearButton {
+  color: white;
+  border: 1px solid black;
+  height: 2rem;
+  border-radius: 0.5rem;
+  background-color: black;
+}
